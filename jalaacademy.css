@@ -1,0 +1,96 @@
+.bg-container{
+    background-color: rgba(189, 192, 198, 0.7);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    color: black;
+}
+#login {
+    background-color: white;
+    height: 390px;
+    width: 350px;
+    padding: 10px;
+}
+.box h1 {
+    color: rgb(57, 55, 55);
+    font-weight: bold;
+    font-size: 35px;
+}
+.box h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+.highlight {
+    background-color: yellow;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+}
+.login-box .paragraph {
+    margin-bottom: 30px;
+    font-weight: 300;
+    font-family: sans-serif;
+    margin: 6% auto;
+    align-items: center;
+}
+.remember {
+    margin-top: 15px;
+}
+.input-field {
+    width: 95%;
+    padding: 5px;
+    padding-left: 8px;
+    border: 1px solid #c4c1c1;
+    outline: none;
+    background: transparent;
+    margin: 10px;
+    margin-right: 10px;
+}
+.buttons .check-box {
+    text-align: left;
+    margin: 10px;
+
+}
+.submit-btn {
+    text-align: right;
+    margin: 10px;
+    margin-left: 95px;
+    background-color: rgb(48, 88, 172);
+}
+.signin-btn {
+    background-color: rgb(46, 115, 158);
+    color: white;
+    border-width: 0px;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+}
+.footer {
+    color: white;
+    background-color: rgb(68, 139, 183);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.forgot-btn{
+    text-decoration: none !important;
+    color: white !important;
+    background-color: rgb(74, 74, 165);
+    margin: 10px;
+    border: none;
+    height: 30px;
+    padding: 2px;
+}
+.admin-btn {
+    text-decoration: none;
+    color: rgb(35, 62, 152);
+    background: transparent;
+    border: none;
+    font-size: 100;
+}
